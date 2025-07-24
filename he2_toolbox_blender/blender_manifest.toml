@@ -1,0 +1,9 @@
+schema_version = "1.0.0"
+id = "he2_toolbox_blender"
+version = "0.5.9"
+name = "HE2 Toolbox: Blender Edition"
+tagline = "Tools for modding Sonic Frontiers/Shadow Generations"
+maintainer = "SeasideRanger"
+type = "add-on"
+blender_version_min = "4.5.0"
+license = ["MIT"]
