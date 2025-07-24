@@ -12,7 +12,7 @@
       "maintainer": "SeasideRanger",
       "license": ["MIT"],
       "blender_version_min": "4.5.0",
-      "website": "https://github.com/CleverChaoFrontiers/Blendhog-Level-Creator-Blender-Addon",
+      "website": "https://github.com/SeasideRanger/blender-extensions",
       "archive_url": "./he2_toolbox_blender.zip",
       "archive_size": 30130,
       "archive_hash": "sha256:EFE9ACB5B801A79E4CCA4D7F7F16C2896738819F68CBD1E8CFECE2F3AB8206CF"
