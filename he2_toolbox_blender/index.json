@@ -1,0 +1,21 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "he2_toolbox_blender",
+      "name": "HE2 Toolbox: Blender Edition",
+      "tagline": "Tools for modding Sonic Frontiers/Shadow Generations",
+      "version": "0.5.9",
+      "type": "add-on",
+      "maintainer": "SeasideRanger",
+      "license": ["MIT"],
+      "blender_version_min": "4.5.0",
+      "website": "https://github.com/CleverChaoFrontiers/Blendhog-Level-Creator-Blender-Addon",
+      "archive_url": "./he2_toolbox_blender.zip",
+      "archive_size": 30130,
+      "archive_hash": "sha256:1291da36657c9ddbdbf21eb2dca0b76a190e2e223aed952f8a716397d8c4fd6f"
+    }
+  ]
+}
